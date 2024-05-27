@@ -1,7 +1,7 @@
 <div align="center">
     
   ![header](https://capsule-render.vercel.app/api?type=venom&color=FFF9D0&height=240&text=ChaeCoding%20World&fontAlign=40&fontAlignY=45&desc=nowChae's%20github&descSize=20&descAlign=67&descAlignY=60&fontColor=A0DEFF&fontSize=45&animation=twinkling&stroke=5AB2FF)
-
+  
 <div align="right">
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nowChae&count_bg=%23A0DEFF&title_bg=%235AB2FF&icon=&icon_color=%235F3C3C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
