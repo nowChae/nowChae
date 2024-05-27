@@ -11,9 +11,8 @@
 ![nowChae's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowChae&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowChae&layout=compact&theme=solarized-light)
 
-
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div>
+<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -30,6 +29,15 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcw8447)](https://solved.ac/lcw8447/)
 
+</div>
+
+<h3 align="center">✨ My Log ✨</h3>
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@lcw8447">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+     
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lcw8447)](https://github.com/lcw8447/velog-readme-stats)
 </div>
 
 </div>
