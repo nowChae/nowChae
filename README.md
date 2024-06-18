@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
      
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lcw8447)](https://github.com/lcw8447/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lcw8447)](https://velog.io/@lcw8447/posts)
 </div>
 
 </div>
