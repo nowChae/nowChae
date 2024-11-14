@@ -8,8 +8,20 @@
 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/nowChae"
+  width="600"
+  height="300"
+/>
+</a>
+
+<!-- 
+
 ![nowChae's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowChae&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowChae&layout=compact&theme=solarized-light)
+
+-->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div style="display:flex; flex-direction:row;">
